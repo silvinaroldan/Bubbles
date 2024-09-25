@@ -43,7 +43,8 @@
     "objectMetadataList" : [
       [
         "26DBAE76-5DD8-47B6-A085-1B4ADA111097",
-        "Root"
+        "Root",
+        "BubbleMaterial"
       ],
       {
         "isExpanded" : true,
@@ -51,8 +52,19 @@
       },
       [
         "26DBAE76-5DD8-47B6-A085-1B4ADA111097",
-        "Root",
-        "BubbleMaterial"
+        "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  },
+  "28448B3C-E478-46F3-843B-6FF7A7CE61D7" : {
+    "objectMetadataList" : [
+      [
+        "28448B3C-E478-46F3-843B-6FF7A7CE61D7",
+        "Root"
       ],
       {
         "isExpanded" : true,
